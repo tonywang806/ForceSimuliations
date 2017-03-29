@@ -3,3 +3,6 @@
 ################################################################################
 
 /ForceSimuliations/bin/Debug
+/ForceSimuliations/obj
+/.vs
+
